@@ -1,6 +1,7 @@
 # Hi there! 👋 I’m **Joseph Opoku Nkansah**
 
-👨‍💻 **<span style="font-weight: bold; font-size: 1.2em; color: #4CAF50;">Frontend Developer | ALX Software Engineering Graduate</span>**
+🚀 **[![Frontend Developer](https://img.shields.io/badge/-Frontend%20Developer-green)](https://github.com/Josephnkansah)** | **[![ALX Graduate](https://img.shields.io/badge/-ALX%20Software%20Engineering%20Graduate-blue)](https://github.com/Josephnkansah)** 🚀
+
 
 Welcome to my GitHub! I’m a frontend-focused software developer with a passion for creating user-friendly, dynamic websites and applications. Completing the ALX Software Engineering program strengthened my technical skills and problem-solving abilities, marking the start of my coding journey. Since then, I’ve honed my expertise in various programming languages and frameworks.
 
